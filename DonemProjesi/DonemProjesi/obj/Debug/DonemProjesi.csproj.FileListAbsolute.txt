@@ -1,0 +1,10 @@
+C:\Users\zehol\OneDrive\Masaüstü\DonemProjesi\DonemProjesi\bin\Debug\DonemProjesi.exe.config
+C:\Users\zehol\OneDrive\Masaüstü\DonemProjesi\DonemProjesi\bin\Debug\DonemProjesi.exe
+C:\Users\zehol\OneDrive\Masaüstü\DonemProjesi\DonemProjesi\bin\Debug\DonemProjesi.pdb
+C:\Users\zehol\OneDrive\Masaüstü\DonemProjesi\DonemProjesi\obj\Debug\DonemProjesi.AnaEkran.resources
+C:\Users\zehol\OneDrive\Masaüstü\DonemProjesi\DonemProjesi\obj\Debug\DonemProjesi.Properties.Resources.resources
+C:\Users\zehol\OneDrive\Masaüstü\DonemProjesi\DonemProjesi\obj\Debug\DonemProjesi.csproj.GenerateResource.cache
+C:\Users\zehol\OneDrive\Masaüstü\DonemProjesi\DonemProjesi\obj\Debug\DonemProjesi.csproj.CoreCompileInputs.cache
+C:\Users\zehol\OneDrive\Masaüstü\DonemProjesi\DonemProjesi\obj\Debug\DonemProjesi.exe
+C:\Users\zehol\OneDrive\Masaüstü\DonemProjesi\DonemProjesi\obj\Debug\DonemProjesi.pdb
+C:\Users\zehol\OneDrive\Masaüstü\DonemProjesi\DonemProjesi\obj\Debug\DonemProjesi.csprojAssemblyReference.cache
